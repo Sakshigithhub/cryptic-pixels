@@ -1,0 +1,38 @@
+.container{
+    display:flex;
+    flex-direction: column;
+}
+.box1{
+    background-color: blue;
+    width:50%;
+    height: 300px;
+    animation:fade 1.5s ease-in normal;
+}
+.box2{
+    background-color: black;
+    width: 50%;
+    height:300px;
+    animation: slideRight 1.5s ease-in normal;
+}
+@media only screen and (max-width:600px){
+     .container{
+    display: flex;
+    flex-direction: row;
+}
+}
+@keyframes fade{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+@keyframes slideRight{
+    from{
+        transform: translateY(300px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}

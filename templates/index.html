@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptiPix - Image Encryptor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            width: 50%;
+            margin: auto;
+        }
+        input, button {
+            margin: 10px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>CryptiPix - Image Encryptor</h1>
+        <form action="/" method="POST" enctype="multipart/form-data">
+            <label>Select an Image:</label>
+            <input type="file" name="file" required><br>
+            
+            <label>Enter Key (Number):</label>
+            <input type="number" name="key" required><br>
+            
+            <button type="submit">Encrypt / Decrypt</button>
+            
+        </form>
+    </div>
+
+</body>
+</html>
