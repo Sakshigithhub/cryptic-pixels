@@ -132,6 +132,7 @@ Using the same key twice restores the original image.
 ### Screenshot 3 : screenshot 3.png
 ### Screenshot 4 : screenshot 4.png
 
+---
 
 ##  Future Improvements
 
@@ -154,5 +155,8 @@ This project is licensed under the MIT License.
 
 ---
 
+## 👩‍💻 Author
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+**Sakshi**
+
+GitHub: https://github.com/Sakshigithhub
