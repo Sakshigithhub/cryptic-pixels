@@ -127,18 +127,10 @@ Using the same key twice restores the original image.
 
 ##  Screenshots
 
-### Screenshot 1
-![Screenshot 1](screenshots/Screenshot%201.png)
-
-### Screenshot 2
-![Screenshot 2](screenshots/Screenshot%202.png)
-
-### Screenshot 3
-![Screenshot 3](screenshots/Screenshot%203.png)
-
-### Screenshot 4
-![Screenshot 4](screenshots/Screenshot%204.png)
-
+### Screenshot 1 : screenshot 1.png
+### Screenshot 2 : screenshot 2(2).png
+### Screenshot 3 : screenshot 3.png
+### Screenshot 4 : screenshot 4.png
 
 
 ##  Future Improvements
