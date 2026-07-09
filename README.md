@@ -105,7 +105,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🔒 Encryption Algorithm
+##  Encryption Algorithm
 
 This project uses the **XOR (Exclusive OR)** encryption technique.
 
@@ -155,7 +155,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sakshi**
 
